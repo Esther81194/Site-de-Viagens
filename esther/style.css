@@ -1,0 +1,42 @@
+
+body{
+    background-image: url(img/vancouver.jpg);
+    background-repeat: no-repeat;
+    background-size: 120%;
+}
+
+ .text-canada{
+     background-color: rgba(255, 255, 255, 0.582);
+     color: rgb(0, 0, 0);
+     font-size: large;
+ }
+        
+ #title-about-canada{
+     color:rgb(173, 1, 12);
+ }
+        
+ #title-you-need-to-know{
+     color:rgb(145, 15, 3);
+     
+ }
+        
+ #lugares-para-conhecer{
+     color:rgb(223, 50, 50);
+     font-size: larger;
+ }
+        
+ #text-canada{
+     background-color: rgba(255, 255, 255, 0.616);
+     color: black;
+     font-size: large;
+ }
+
+ #flag-canada{
+     width: 400px;
+     border: 6px ridge red;
+ }
+
+ #lista{
+    color: white;
+    font-size: medium;
+ }
