@@ -1,5 +1,5 @@
 
-body{
+.bodyIndex{
     background-image: url(img/vancouver.jpg);
     background-repeat: no-repeat;
     background-size: 120%;
@@ -40,3 +40,13 @@ body{
     color: white;
     font-size: medium;
  }
+
+body{
+    background-color: rgb(59, 0, 0);
+}
+
+ form{
+    width: 30%;
+    margin: 100px auto;
+    text-align: center;
+}
